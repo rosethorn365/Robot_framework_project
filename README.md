@@ -14,3 +14,5 @@ End-to-end automaatio, joka lukee laskujen header- ja riviaineiston CSV:istä, v
 - Robot Framework & PyMySQL
 ```bash
 pip install robotframework robotframework-databaselibrary pymysql
+
+Video projektista: https://kaltura.hamk.fi/media/rf_videopalautus_rpakurssi_24/0_e13qn9pg
